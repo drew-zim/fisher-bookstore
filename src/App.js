@@ -14,7 +14,7 @@ export default class App extends Component {
               </Link>
           </Navbar.Brand>
         </Navbar>
-        <Routes />
+
         </div>
 
     );
